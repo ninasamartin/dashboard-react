@@ -1,0 +1,11 @@
+/* ===============
+    SIDEBAR
+================ */
+
+.sidebar {
+    background-color: black;
+}
+
+.sidebar .sidebar-brand div.sidebar-brand-text {
+    margin-left: 0.3rem!important;
+}
