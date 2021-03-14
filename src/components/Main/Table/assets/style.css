@@ -1,0 +1,17 @@
+/* ===========
+    TABLE
+============ */
+
+@media(max-width: 650px) {
+    .col-lg-12 .card-body {
+        padding: 0.5rem;
+    }
+
+    table.table td, table.table th {
+        padding: .2rem;
+    }
+
+    td.display-none, th.display-none {
+        display: none;
+    }
+}
